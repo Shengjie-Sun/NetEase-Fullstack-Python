@@ -6,3 +6,4 @@
 或者咨询QQ群： 158184562
 
 Try if free
+Try git setting
